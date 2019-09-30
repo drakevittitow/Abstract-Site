@@ -1,0 +1,148 @@
+body {
+    background-color: black
+}
+
+div {
+    display: block;
+    position: fixed;
+    bottom: 25vh;
+    margin: 1rem;
+    left: 5vw;
+    top: 50vh;
+    width: 5rem;
+    height: 80rem;
+    border-radius: 10vw;
+    border: 30px solid #f0f
+}
+div:nth-last-of-type(2) {
+    position: fixed;
+    bottom: 25vh;
+    left: 10vw;
+    top: 70vh;
+    width: 5rem;
+    height: 80rem;
+    border-radius: 10vw;
+    border: 70px solid #999
+}
+div:nth-of-type(3) {
+    position: fixed;
+    display: block;
+    bottom:10vh;
+    width: 10rem;
+    height: 10rem;
+    right: 50vw;
+    left: 50vw;
+    border-radius: 10vw;
+    border: 30px solid #0f0
+}
+div:nth-of-type(4) {
+    display: block;
+    position: fixed;
+    bottom: 40vh;
+    left: 80vw;
+    right: 60vw;
+    top: 50vh;
+    width: 30rem;
+    height: 50rem;
+    border-radius: 10vw;
+    border: 30px solid #1aa
+}
+div:nth-of-type(5) {
+    position: fixed;
+    top: 0vh;
+    left: 30vw;
+
+    border: 30px solid #872 
+}
+div:nth-of-type(6) {
+    position: fixed;
+    display: block;
+    bottom:20vh; 
+    top: 30vh;
+    width: 20rem;
+    height: 1rem;
+    right: 30vw;
+    left: 50vw;
+    border-radius: 10vw;
+border: 20px solid #61a
+}
+div:nth-of-type(7) {
+    position: fixed;
+    display: block;
+    bottom:20vh; 
+    top: 40vh;
+    width: 20rem;
+    height: 1rem;
+    right: 30vw;
+    left: 50vw;
+    border-radius: 10vw;
+border: 20px solid #57f
+}
+div:nth-of-type(8) {
+    position: fixed;
+    display: block;
+    bottom:20vh; 
+    top: 20vh;
+    width: 20rem;
+    height: 1rem;
+    right: 30vw;
+    left: 50vw;
+    border-radius: 10vw;
+    border: 20px solid #444
+}
+div:nth-of-type(9) {
+    position: fixed;
+    top: 0vh;
+    left: 24vw;
+
+    border: 30px solid #731
+}
+div:nth-of-type(10) {
+position: fixed;
+    display: block;
+    bottom:10vh;
+    top:10vh;
+    width: 10rem;
+    height: 10rem;
+    right: 60vw;
+    padding: 1rem;
+    left: 5vw;
+    border-radius: 10vw;
+    border: 30px solid #fff
+}
+div:nth-of-type(11) {
+    position: fixed;
+    display: block;
+    bottom:10vh;
+    top: 50vh;
+    width: 10rem;
+    height: 10rem;
+    right: 50vw;
+    left: 50vw;
+    border-radius: 5vw;
+    border: 30px solid #f52
+}
+div:nth-of-type(12) {
+    position: fixed;
+    display: block;
+    bottom:10vh;
+    top:10vh;
+    width: 10rem;
+    height: 10rem;
+    right: 60vw;
+    left: 80vw;
+    border-radius: 90vw;
+    border: 30px solid #8fa
+}
+div:nth-of-type(13) {
+    position: fixed;
+    display: block;
+    bottom:10vh;
+    top:10vh;
+    width: 10rem;
+    height: 10rem;
+    right: 60vw;
+    left: 80vw;
+    border-radius: 90vw;
+    border: 30px dotted #f11
+}
